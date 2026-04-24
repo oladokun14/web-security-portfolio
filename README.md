@@ -8,6 +8,7 @@ This repository documents my practical learning in web application security, foc
 ## Topics Covered
 - Path Traversal
 - Broken Access Control
+- username enumeration and brute force attack
 
 ## Methodology
 Each lab follows a structured approach:
