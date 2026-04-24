@@ -1,3 +1,4 @@
+<img width="908" height="581" alt="enumeration vuln" src="https://github.com/user-attachments/assets/39dc4f5c-575a-4a40-9514-23cfcfcf9b22" />
 
 # Username Enumeration via Different Responses and Password Brute Force Attack
 
